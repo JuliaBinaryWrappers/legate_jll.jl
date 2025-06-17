@@ -1,0 +1,215 @@
+[[legate]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b54563e35f23d7cef975a1c6f50a63b717cc3e5"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "7abb86c5d721b821a4f1fc4cef26375a84fc78205b4aa5d497d14a41f4905777"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.x86_64-linux-gnu-cxx11-cuda+12.2.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.2"
+cuda_platform = "jetson"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4abf901458b8ce06d76a6304bfaaf4973ef1670"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "a18c3ce1142515ca2fd3ddc4b3da4c0aeedd402c8d8385f6916cf74fb9265778"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.2-cuda_platform+jetson.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.2"
+cuda_platform = "sbsa"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6eded5a478351da04c0301eeb15dc3bb158f084e"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "abed8f0fa113fa4ad00a4dba438a8086a40ad71a788fc23383fac8a5760ef3b0"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.2-cuda_platform+sbsa.tar.gz"
+[[legate]]
+arch = "x86_64"
+cuda = "12.3"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c710a1c293cefd3e95a08ecccb46aed8f420582d"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "929591f0e437a780776a4c9ef095f3cabe27cb44b340d48369a9a19598bdd459"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.x86_64-linux-gnu-cxx11-cuda+12.3.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.3"
+cuda_platform = "sbsa"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "372b7257384c1466c1084793d573190596ffc4fb"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "cbf480f2fbc71e2c61f5fa76514a06af91e8648a8747fb6d4979f8c8184551b5"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.3-cuda_platform+sbsa.tar.gz"
+[[legate]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54fb86b65a84ea48c9638e6b20cabad1beeafe6f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "e77530baf3cbef9c199536e96c4f22589c7cd9cd0c7ceb231a36de0547c433a5"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.x86_64-linux-gnu-cxx11-cuda+12.4.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.4"
+cuda_platform = "jetson"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9a699dcfa34c9c1c152688d1957712c0e6571b1"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "11ccd809f1b2fc2d46dd4c36b16faae18b4874ca7393576c1d7ef45309392bfa"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.4-cuda_platform+jetson.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.4"
+cuda_platform = "sbsa"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "258df4965daea52fe1127220b7087a2f3a3455f2"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "3ccc9fcfde8b99f04f7a493b9a2e47ca83cc4f5e561f172a6287f28cbceebc3c"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.4-cuda_platform+sbsa.tar.gz"
+[[legate]]
+arch = "x86_64"
+cuda = "12.5"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc26eea0b125c88e2532e92f955bd973406c7327"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "1316471e97e577493aab9624f264a6e46093d5811dc0b65986d3f51de811bae9"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.x86_64-linux-gnu-cxx11-cuda+12.5.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.5"
+cuda_platform = "jetson"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "910a5200f9e9418a44237f7a266967ca5364b768"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "216180614c40c30a8df5a9b58442affecda16cfe281ecd1a51c8aa5d41f43312"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.5-cuda_platform+jetson.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.5"
+cuda_platform = "sbsa"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57aeabb18009623d6982f227d6d4d749b507fab6"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "d393b2a30a384b71bcfb22b9ea4b2c2e43e96b121b35eb1ad9c13e7019c9018b"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.5-cuda_platform+sbsa.tar.gz"
+[[legate]]
+arch = "x86_64"
+cuda = "12.6"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed381c853db944848b4e75d84cf70b2e9ac07c38"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "6a7665af8cc330d14eb96b2810576716ce519ab1e0ac273e6acd8737626149b1"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.x86_64-linux-gnu-cxx11-cuda+12.6.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.6"
+cuda_platform = "jetson"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1dacdcdae6a3cb670cd414f5b29a79c345fa2699"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "a6e59e895606446c2f76b7632358e053399a7ed424ffcbba0ad093a9daedb8ec"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.6-cuda_platform+jetson.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.6"
+cuda_platform = "sbsa"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae0899b5d0c0041503b8ffc3e68a2c54fac98b64"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "c8bfd327c571aabd048b2e0b41806b0eefa6c80f53278166b2a095cf60b60f27"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.6-cuda_platform+sbsa.tar.gz"
+[[legate]]
+arch = "x86_64"
+cuda = "12.8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad4ad82dd411463e7d9ae4f351de8c3c8aa5a4ef"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "2364dcacdfe31599523fbae9b4b255b157976e33caa778e431def4082a3ae069"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.x86_64-linux-gnu-cxx11-cuda+12.8.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.8"
+cuda_platform = "jetson"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d331644f539fc93675e2d0823987df718802e02"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "d1cae9483c478377526ebae5181daeff75ac916cbca894daf2b5c8b3fc507676"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.8-cuda_platform+jetson.tar.gz"
+[[legate]]
+arch = "aarch64"
+cuda = "12.8"
+cuda_platform = "sbsa"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d222a9e598e48524e06fe4e2f52d2837a4b4dd9d"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate.download]]
+    sha256 = "40f7682e187d6a859fe8ac1faf2562a04abaafabea515439bd9e72e5a8aa22cc"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.5.0+0/legate.v25.5.0.aarch64-linux-gnu-cxx11-cuda+12.8-cuda_platform+sbsa.tar.gz"
