@@ -1,6 +1,6 @@
 name = "legate_jll"
 uuid = "e95fb1d3-fb9e-51b5-bdb8-1a812408cac9"
-version = "25.5.0+0"
+version = "25.5.0+1"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
