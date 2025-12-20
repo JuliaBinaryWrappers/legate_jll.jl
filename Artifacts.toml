@@ -9,16 +9,16 @@ os = "linux"
 
     [[legate.download]]
     sha256 = "e016e87300117c5d5116711dca97db1fee2b95bd67f0f16b4075289d383c0f0d"
-    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.10.0+1/legate.v25.10.0.x86_64-linux-gnu-cxx11-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.10.1+0/legate.v25.10.1.x86_64-linux-gnu-cxx11-cuda+none.tar.gz"
 [[legate]]
 arch = "x86_64"
 cuda = "13.0"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0df031e4aae4e99b685b699155fdd84350399e63"
+git-tree-sha1 = "0ddac72049459cfb16450501bfaceae3973715ac"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[legate.download]]
-    sha256 = "4e4675a4f9c6a6015f7b8d0de6f006b3093b66d7387912e635f5bbc95a737c48"
-    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.10.0+1/legate.v25.10.0.x86_64-linux-gnu-cxx11-cuda+13.0.tar.gz"
+    sha256 = "4209a25c5cab09cab258005501d0d9ee028edf4b33aae4734e7d5cb89be4b19e"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jll.jl/releases/download/legate-v25.10.1+0/legate.v25.10.1.x86_64-linux-gnu-cxx11-cuda+13.0.tar.gz"
