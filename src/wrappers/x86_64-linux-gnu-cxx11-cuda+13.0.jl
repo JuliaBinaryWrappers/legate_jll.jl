@@ -10,7 +10,7 @@ using CompilerSupportLibraries_jll
 using NCCL_jll
 using CUDA_Runtime_jll
 JLLWrappers.@generate_wrapper_header("legate")
-JLLWrappers.@declare_library_product(liblegate, "liblegate.so.26.01.00")
+JLLWrappers.@declare_library_product(liblegate, "liblegate.so.26.06.00")
 function __init__()
     JLLWrappers.@generate_init_header(HDF5_jll, MPICH_jll, Zlib_jll, UCC_jll, UCX_jll, CompilerSupportLibraries_jll, NCCL_jll, CUDA_Runtime_jll)
     JLLWrappers.@init_library_product(
